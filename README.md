@@ -1,4 +1,4 @@
-# Ex.No:3b To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
+# Ex.No:4 To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 
 
 ## AIM:
@@ -25,8 +25,8 @@ Step 5: Working with the MainActivity2 File
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by: AKASH A
-Registeration Number : 212221040010
+Developed by: AJAY SURYA S
+Registeration Number : 212221040009
 */
 ```
 #ACTIVITY_MAIN.XML
